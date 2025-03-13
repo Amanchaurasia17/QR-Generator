@@ -2,7 +2,7 @@
 
 This is a simple QR code generator web application built using HTML, CSS, and JavaScript. It allows users to create QR codes for various purposes, such as sharing URLs, contact information, or any text-based information that can be encoded into a QR code. The application uses the [QR Code Generator](https://goqr.me/api/)  API to generate QR codes.
 
-![QR Code Generator Screenshot](qrCode.png)
+![QR Code Generator Screenshot](image.png)
 
 ## Features
 
@@ -26,7 +26,7 @@ To run this QR code generator on your local machine, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Ejay02/qr-code-generator.git
+   git clone https://github.com/Amanchaurasia17/QR-Generator.git
    ```
 
 2. Navigate to the project directory:
